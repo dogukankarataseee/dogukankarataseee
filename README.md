@@ -1,7 +1,7 @@
-[![MasterHead](https://cutewallpaper.org/25/animated-matrix-gif-wallpaper/matrix-521dd-gifs-81db7-renkli-dcc3e-duvar-a47c1-duvar-bd4a3-gifler-1c985-e%C4%9Fitim.gif)
+![MasterHead](https://cutewallpaper.org/25/animated-matrix-gif-wallpaper/matrix-521dd-gifs-81db7-renkli-dcc3e-duvar-a47c1-duvar-bd4a3-gifler-1c985-e%C4%9Fitim.gif)
 <h1 align="center">Hi 👋, I'm Dogukan Karatas</h1>
 <h3 align="center">I'm a Robotics Engineer related to Computer and Electronics science.In both national competitions and individual development societies I am on active duty.</h3>
-<img align="right" alt="Coding" width="400" src ="https://artsformysake.files.wordpress.com/2020/08/face-id-glitch.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukankarataseee&label=Profile%20views&color=0e75b6&style=flat" alt="dogukankarataseee" /> </p>
 
